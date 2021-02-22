@@ -1,0 +1,16 @@
+.barra_superiore {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(43, 160, 214);
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-size: contain;
+    position: relative;
+}
+
+.logo {
+    height: 40px;
+    margin-left: 300px;
+    position: absolute;
+    bottom: 0%;
+}
