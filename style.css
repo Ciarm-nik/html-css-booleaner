@@ -78,8 +78,26 @@ table {
     color: black;
 }
 
+.suggerimenti {
+    color: lightgrey;
+}
 
+.primo_sugg {
+    width: 200px;
+    height: 200px;
+    background: url(img/monitor.jpg);
+}
 
+.secondo_sugg {
+    width: 200px;
+    height: 200px;
+    background: url(img/graph.jpg);
+}
+
+.descrizione {
+    color: white;
+    text-align: center;
+}
 
 
  
