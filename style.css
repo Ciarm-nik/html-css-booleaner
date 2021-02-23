@@ -10,14 +10,15 @@
 
 .logo {
     height: 40px;
-    margin-left: 150px;
+    margin-left: 200px;
     position: absolute;
     bottom: 0%;
 }
 
 .container {
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .titolo_grande {
@@ -39,12 +40,49 @@
     display: inline-block;
 }
 
+.evidenzia {
+   background-color: yellow;
+}
+
 h6 {
 margin: 0;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+ul, li {margin-left: 0; 
+        padding-left: 0;
+}
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.prima_riga {
+    background-color: lightskyblue;
+    font-weight: bold;
+    color: white;
+}
+
+#cinquanta {
+    width: 50%;
+}
+
+.seconda_riga {
+    background-color: aqua;
+    color: black;
+}
+
+.terza_riga {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+ 
 
 
 
